@@ -1,0 +1,10 @@
+study_date,vehicle_id,trip_id,prediction_instances,arrival_events,first_prediction,last_prediction,trip_coverage
+2026-06-27,r4-u7,1,297,11,2026-06-27 07:01:13,2026-06-27 09:00:41,Original trip coverage
+2026-06-27,r4-u7,2,296,11,2026-06-27 09:20:20,2026-06-27 11:22:37,Original trip coverage
+2026-06-27,r4-u7,3,272,11,2026-06-27 11:33:14,2026-06-27 13:28:05,Original trip coverage
+2026-06-27,r4-u7,4,297,11,2026-06-27 13:42:49,2026-06-27 15:56:09,Original trip coverage
+2026-06-27,r4-u7,5,297,11,2026-06-27 16:30:26,2026-06-27 18:30:36,Original trip coverage
+2026-06-27,r4-u7,6,277,11,2026-06-27 19:11:44,2026-06-27 21:12:04,Original trip coverage
+2026-06-27,r4-u7,7,168,11,2026-06-27 21:26:27,2026-06-27 23:25:21,Original trip coverage
+2026-10-27,r4_de_puebla-u16,107,15,1,2026-10-27 17:23:47,2026-10-27 17:28:07,Partial GPS export
+2026-10-27,r4_de_puebla-u16,108,147,10,2026-10-27 18:08:29,2026-10-27 19:18:53,Partial GPS export

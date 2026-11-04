@@ -1,0 +1,29 @@
+test_trip,model,feature_set,variant,inner_within_30s_pct,inner_MAE_sec,selected_model_by_inner_cv
+1,Linear Regression,EnhancedNoClock,Default,65.1919754288003,28.579549531738717,False
+1,Random Forest,EnhancedNoClock,Subsample,74.49249693246118,23.742644820929453,False
+1,XGBoost,EnhancedNoClock,Penalized,73.57142014159605,24.40489088306497,False
+1,LightGBM,EnhancedNoClock,Absolute,74.93981328195069,23.860480247703777,True
+2,Linear Regression,EnhancedNoClock,Default,55.307108865012175,36.64489845467596,False
+2,Random Forest,EnhancedNoClock,Deep,65.98823695141915,28.041174237848995,False
+2,XGBoost,EnhancedNoClock,Default,65.99487317991778,28.848666233072162,False
+2,LightGBM,EnhancedNoClock,Flexible,66.42009188838841,28.593996798833857,True
+3,Linear Regression,EnhancedNoClock,Default,56.706936670835596,36.047682164673155,False
+3,Random Forest,EnhancedNoClock,Default,69.17145463324765,26.42912122203511,True
+3,XGBoost,EnhancedNoClock,Default,69.13075352455617,27.143764039993105,False
+3,LightGBM,EnhancedNoClock,Default,68.83828070651175,27.25094796451528,False
+4,Linear Regression,EnhancedNoClock,Default,57.2215117421106,36.28381811990666,False
+4,Random Forest,EnhancedNoClock,Smooth,68.52370190791298,26.818383271407402,True
+4,XGBoost,EnhancedNoClock,Default,68.0521969312937,27.738224776791984,False
+4,LightGBM,EnhancedNoClock,Regularized,68.4162096349309,27.591722106857517,False
+5,Linear Regression,EnhancedNoClock,Default,54.940941832178474,36.620347294484915,False
+5,Random Forest,EnhancedNoClock,Deep,68.2334491231019,27.269480187734302,True
+5,XGBoost,EnhancedNoClock,Default,66.6951365640047,28.332083484133474,False
+5,LightGBM,EnhancedNoClock,MediumLeaves,67.44041289282671,28.50069763228214,False
+6,Linear Regression,EnhancedNoClock,Default,53.289436622769955,41.102750408334956,False
+6,Random Forest,EnhancedNoClock,Deep,65.64732385810815,28.895563515474667,False
+6,XGBoost,EnhancedNoClock,Absolute,65.6682537197243,29.937762433713743,True
+6,LightGBM,EnhancedNoClock,Regularized,65.42846959513626,30.38346648195412,False
+7,Linear Regression,EnhancedNoClock,Default,57.13600518782971,35.474571717177106,False
+7,Random Forest,EnhancedNoClock,Default,68.94523129215561,26.49937005693626,False
+7,XGBoost,EnhancedNoClock,Depth4,69.11722179427638,26.43428273726649,True
+7,LightGBM,EnhancedNoClock,SmallLeaves,68.09635194487781,27.06047896781368,False

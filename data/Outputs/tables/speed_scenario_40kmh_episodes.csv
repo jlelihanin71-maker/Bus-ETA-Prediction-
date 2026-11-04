@@ -1,0 +1,2 @@
+vehicle_id,threshold_kmh,start_time,end_time,observed_duration_sec,observations,peak_speed_kmh,mean_speed_kmh
+r4-u7,40,2026-06-27 14:04:14,2026-06-27 14:04:14,0.0,1,42.03,42.03

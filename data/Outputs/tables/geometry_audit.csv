@@ -1,0 +1,14 @@
+feature_index,checkpoint,valid,duplicate,approximate_area_m2,approximate_perimeter_m,zone_size_source
+1,BASE,True,False,135049.89223218098,1526.1371004098514,Unmodified supplied polygon; not tuned on outcomes
+2,CENTRAL CAMIONERA,True,False,18751.832776344243,652.0404568179273,Unmodified supplied polygon; not tuned on outcomes
+3,OXXO EXPLANADA,True,False,5296.751054313166,400.4593565945983,Unmodified supplied polygon; not tuned on outcomes
+4,EL CARMEN,True,False,4848.207248421938,310.7987684421327,Unmodified supplied polygon; not tuned on outcomes
+5,VALSEQUILLO,True,False,27292.403872618277,854.723389584351,Unmodified supplied polygon; not tuned on outcomes
+6,9 ORIENTE,True,False,8993.755007294272,495.3179719940603,Unmodified supplied polygon; not tuned on outcomes
+7,PALETERIA,True,False,16415.227832228346,793.0679687241028,Unmodified supplied polygon; not tuned on outcomes
+8,EBANO,True,False,6420.355803047456,437.27895341557337,Unmodified supplied polygon; not tuned on outcomes
+9,PEREYRA,True,False,9205.739689768674,703.3608476302381,Unmodified supplied polygon; not tuned on outcomes
+10,GASOLINERA,True,False,23727.623539088436,793.1891773245172,Unmodified supplied polygon; not tuned on outcomes
+11,PERI PLAZA,True,False,28140.40825418086,1018.8439171888772,Unmodified supplied polygon; not tuned on outcomes
+12,TORRES I,True,False,16195.567157788133,616.7383651690959,Unmodified supplied polygon; not tuned on outcomes
+13,CENTRAL CAMIONERA,True,True,18751.832776344243,652.0404568179273,Unmodified supplied polygon; not tuned on outcomes

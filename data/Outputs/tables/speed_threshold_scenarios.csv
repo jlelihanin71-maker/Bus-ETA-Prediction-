@@ -1,0 +1,5 @@
+scenario_threshold_kmh,exceeding_observations,exceeding_pct,observed_episodes,interpretation
+20,321,3.822338652060014,187,"Illustrative threshold, not a verified legal limit"
+30,35,0.41676589664205765,20,"Illustrative threshold, not a verified legal limit"
+40,1,0.011907597046915932,1,"Illustrative threshold, not a verified legal limit"
+50,0,0.0,0,"Illustrative threshold, not a verified legal limit"

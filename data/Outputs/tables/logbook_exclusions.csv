@@ -1,0 +1,163 @@
+logbook_row_id,trip_id,checkpoint,reason
+0,1,135 PTE,No supplied control-zone geometry
+10,1,BASE CENTRO,No supplied control-zone geometry
+11,1,25 PONIENTE,No supplied control-zone geometry
+12,1,39 PONIENTE,No supplied control-zone geometry
+14,1,LAGUNA,No supplied control-zone geometry
+15,1,TORRES R,No supplied control-zone geometry
+16,1,PUENTE SAN BARTOLO,No supplied control-zone geometry
+18,2,135 PTE,No supplied control-zone geometry
+28,2,BASE CENTRO,No supplied control-zone geometry
+29,2,25 PONIENTE,No supplied control-zone geometry
+30,2,39 PONIENTE,No supplied control-zone geometry
+32,2,LAGUNA,No supplied control-zone geometry
+33,2,TORRES R,No supplied control-zone geometry
+34,2,PUENTE SAN BARTOLO,No supplied control-zone geometry
+36,3,135 PTE,No supplied control-zone geometry
+46,3,BASE CENTRO,No supplied control-zone geometry
+47,3,25 PONIENTE,No supplied control-zone geometry
+48,3,39 PONIENTE,No supplied control-zone geometry
+50,3,LAGUNA,No supplied control-zone geometry
+51,3,TORRES R,No supplied control-zone geometry
+52,3,PUENTE SAN BARTOLO,No supplied control-zone geometry
+54,4,135 PTE,No supplied control-zone geometry
+64,4,BASE CENTRO,No supplied control-zone geometry
+65,4,25 PONIENTE,No supplied control-zone geometry
+66,4,39 PONIENTE,No supplied control-zone geometry
+68,4,LAGUNA,No supplied control-zone geometry
+69,4,TORRES R,No supplied control-zone geometry
+70,4,PUENTE SAN BARTOLO,No supplied control-zone geometry
+72,5,135 PTE,No supplied control-zone geometry
+82,5,BASE CENTRO,No supplied control-zone geometry
+83,5,25 PONIENTE,No supplied control-zone geometry
+84,5,39 PONIENTE,No supplied control-zone geometry
+86,5,LAGUNA,No supplied control-zone geometry
+87,5,TORRES R,No supplied control-zone geometry
+88,5,PUENTE SAN BARTOLO,No supplied control-zone geometry
+90,6,135 PTE,No supplied control-zone geometry
+100,6,BASE CENTRO,No supplied control-zone geometry
+101,6,25 PONIENTE,No supplied control-zone geometry
+102,6,39 PONIENTE,No supplied control-zone geometry
+104,6,LAGUNA,No supplied control-zone geometry
+105,6,TORRES R,No supplied control-zone geometry
+106,6,PUENTE SAN BARTOLO,No supplied control-zone geometry
+108,7,135 PTE,No supplied control-zone geometry
+118,7,BASE CENTRO,No supplied control-zone geometry
+119,7,25 PONIENTE,No supplied control-zone geometry
+120,7,39 PONIENTE,No supplied control-zone geometry
+123,7,TORRES R,No supplied control-zone geometry
+124,7,PUENTE SAN BARTOLO,No supplied control-zone geometry
+126,8,135 PTE,Incomplete trip excluded
+144,101,135 PTE,No supplied control-zone geometry
+145,101,CENTRAL CAMIONERA,No eligible GPS passage within tolerance
+146,101,PERI PLAZA,No eligible GPS passage within tolerance
+147,101,GASOLINERA,No eligible GPS passage within tolerance
+148,101,OXXO EXPLANADA,No eligible GPS passage within tolerance
+149,101,PALETERIA,No eligible GPS passage within tolerance
+150,101,TORRES I,No eligible GPS passage within tolerance
+151,101,VALSEQUILLO,No eligible GPS passage within tolerance
+152,101,EL CARMEN,No eligible GPS passage within tolerance
+153,101,9 ORIENTE,No eligible GPS passage within tolerance
+154,101,BASE  CENTRO,No supplied control-zone geometry
+155,101,25 PONIENTE,No supplied control-zone geometry
+156,101,39 PONIENTE,No supplied control-zone geometry
+157,101,PEREYRA,No eligible GPS passage within tolerance
+158,101,LAGUNA,No supplied control-zone geometry
+159,101,TORRES R,No supplied control-zone geometry
+160,101,PUENTE SAN BARTOLO,No supplied control-zone geometry
+161,101,BASE,No eligible GPS passage within tolerance
+162,102,135 PTE,No supplied control-zone geometry
+163,102,CENTRAL CAMIONERA,No eligible GPS passage within tolerance
+164,102,PERI PLAZA,No eligible GPS passage within tolerance
+165,102,GASOLINERA,No eligible GPS passage within tolerance
+166,102,OXXO EXPLANADA,No eligible GPS passage within tolerance
+167,102,PALETERIA,No eligible GPS passage within tolerance
+168,102,TORRES I,No eligible GPS passage within tolerance
+169,102,VALSEQUILLO,No eligible GPS passage within tolerance
+170,102,EL CARMEN,No eligible GPS passage within tolerance
+171,102,9 ORIENTE,No eligible GPS passage within tolerance
+172,102,BASE  CENTRO,No supplied control-zone geometry
+173,102,25 PONIENTE,No supplied control-zone geometry
+174,102,39 PONIENTE,No supplied control-zone geometry
+175,102,PEREYRA,No eligible GPS passage within tolerance
+176,102,LAGUNA,No supplied control-zone geometry
+177,102,TORRES R,No supplied control-zone geometry
+178,102,PUENTE SAN BARTOLO,No supplied control-zone geometry
+179,102,BASE,No eligible GPS passage within tolerance
+180,104,135 PTE,No supplied control-zone geometry
+181,104,CENTRAL CAMIONERA,No eligible GPS passage within tolerance
+182,104,PERI PLAZA,No eligible GPS passage within tolerance
+183,104,GASOLINERA,No eligible GPS passage within tolerance
+184,104,OXXO EXPLANADA,No eligible GPS passage within tolerance
+185,104,PALETERIA,No eligible GPS passage within tolerance
+186,104,TORRES I,No eligible GPS passage within tolerance
+187,104,VALSEQUILLO,No eligible GPS passage within tolerance
+188,104,EL CARMEN,No eligible GPS passage within tolerance
+189,104,9 ORIENTE,No eligible GPS passage within tolerance
+190,104,BASE  CENTRO,No supplied control-zone geometry
+191,104,25 PONIENTE,No supplied control-zone geometry
+192,104,39 PONIENTE,No supplied control-zone geometry
+193,104,PEREYRA,No eligible GPS passage within tolerance
+194,104,LAGUNA,No supplied control-zone geometry
+195,104,TORRES R,No supplied control-zone geometry
+196,104,PUENTE SAN BARTOLO,No supplied control-zone geometry
+197,104,BASE,No eligible GPS passage within tolerance
+198,106,135 PTE,No supplied control-zone geometry
+199,106,CENTRAL CAMIONERA,No eligible GPS passage within tolerance
+200,106,PERI PLAZA,No eligible GPS passage within tolerance
+201,106,GASOLINERA,No eligible GPS passage within tolerance
+202,106,OXXO EXPLANADA,No eligible GPS passage within tolerance
+203,106,PALETERIA,No eligible GPS passage within tolerance
+204,106,TORRES I,No eligible GPS passage within tolerance
+205,106,VALSEQUILLO,No eligible GPS passage within tolerance
+206,106,EL CARMEN,No eligible GPS passage within tolerance
+207,106,9 ORIENTE,No eligible GPS passage within tolerance
+208,106,BASE  CENTRO,No supplied control-zone geometry
+209,106,25 PONIENTE,No supplied control-zone geometry
+210,106,39 PONIENTE,No supplied control-zone geometry
+211,106,PEREYRA,No eligible GPS passage within tolerance
+212,106,LAGUNA,No supplied control-zone geometry
+213,106,TORRES R,No supplied control-zone geometry
+214,106,PUENTE SAN BARTOLO,No supplied control-zone geometry
+215,106,BASE,No eligible GPS passage within tolerance
+216,107,135 PTE,No supplied control-zone geometry
+217,107,CENTRAL CAMIONERA,No eligible GPS passage within tolerance
+218,107,PERI PLAZA,No eligible GPS passage within tolerance
+219,107,GASOLINERA,No eligible GPS passage within tolerance
+220,107,OXXO EXPLANADA,No eligible GPS passage within tolerance
+221,107,PALETERIA,No eligible GPS passage within tolerance
+222,107,TORRES I,No eligible GPS passage within tolerance
+223,107,VALSEQUILLO,No eligible GPS passage within tolerance
+224,107,EL CARMEN,No eligible GPS passage within tolerance
+225,107,9 ORIENTE,No eligible GPS passage within tolerance
+226,107,BASE  CENTRO,No supplied control-zone geometry
+227,107,25 PONIENTE,No supplied control-zone geometry
+228,107,39 PONIENTE,No supplied control-zone geometry
+229,107,PEREYRA,No eligible GPS passage within tolerance
+230,107,LAGUNA,No supplied control-zone geometry
+231,107,TORRES R,No supplied control-zone geometry
+232,107,PUENTE SAN BARTOLO,No supplied control-zone geometry
+234,108,135 PTE,No supplied control-zone geometry
+244,108,BASE  CENTRO,No supplied control-zone geometry
+245,108,25 PONIENTE,No supplied control-zone geometry
+246,108,39 PONIENTE,No supplied control-zone geometry
+248,108,LAGUNA,No supplied control-zone geometry
+249,108,TORRES R,No supplied control-zone geometry
+122,7,LAGUNA,No recorded actual arrival
+127,8,CENTRAL CAMIONERA,No recorded actual arrival
+128,8,PERI PLAZA,No recorded actual arrival
+129,8,GASOLINERA,No recorded actual arrival
+130,8,OXXO EXPLANADA,No recorded actual arrival
+131,8,PALETERIA,No recorded actual arrival
+132,8,TORRES I,No recorded actual arrival
+133,8,VALSEQUILLO,No recorded actual arrival
+134,8,EL CARMEN,No recorded actual arrival
+135,8,9 ORIENTE,No recorded actual arrival
+136,8,BASE CENTRO,No recorded actual arrival
+137,8,25 PONIENTE,No recorded actual arrival
+138,8,39 PONIENTE,No recorded actual arrival
+139,8,PEREYRA,No recorded actual arrival
+140,8,LAGUNA,No recorded actual arrival
+141,8,TORRES R,No recorded actual arrival
+142,8,PUENTE SAN BARTOLO,No recorded actual arrival
+143,8,BASE,No recorded actual arrival

@@ -1,0 +1,5 @@
+step,removed_rows,remaining_rows
+Missing essential GPS field,0,9140
+Exact duplicate GPS record,742,8398
+Invalid speed or coordinate,0,8398
+Conflicting records at same vehicle timestamp,0,8398

@@ -1,0 +1,37 @@
+outer_test_trip,training_trip_groups,model,features,variant,policy,inner_within_30s_pct,inner_MAE_sec
+1,"2,3,4,5,6,7,107,108",Linear Regression,EnhancedNoClock,Default,Ordinary,62.05949095465846,32.58741740440392
+1,"2,3,4,5,6,7,107,108",Random Forest,EnhancedNoClock,Smooth,Maximum-window,77.9511655188266,25.87276247347274
+1,"2,3,4,5,6,7,107,108",XGBoost,EnhancedNoClock,Default,Ordinary,69.74383515405361,24.66559361296769
+1,"2,3,4,5,6,7,107,108",LightGBM,EnhancedNoClock,Default,Ordinary,70.11841269334045,25.20270626503205
+2,"1,3,4,5,6,7,107,108",Linear Regression,EnhancedNoClock,Default,Ordinary,54.68410249086689,38.82950307186023
+2,"1,3,4,5,6,7,107,108",Random Forest,EnhancedNoClock,Subsample,Maximum-window,77.15119342097412,26.34023819356171
+2,"1,3,4,5,6,7,107,108",XGBoost,EnhancedNoClock,Default,Ordinary,71.70503140677559,25.688384862768103
+2,"1,3,4,5,6,7,107,108",LightGBM,EnhancedNoClock,Default,Ordinary,71.74139506840186,25.75510275676821
+3,"1,2,4,5,6,7,107,108",Linear Regression,EnhancedNoClock,Default,Ordinary,60.85628305361415,36.53118620402533
+3,"1,2,4,5,6,7,107,108",Random Forest,EnhancedNoClock,Subsample,Maximum-window,76.69186506989499,25.971616743159743
+3,"1,2,4,5,6,7,107,108",XGBoost,EnhancedNoClock,Default,Ordinary,70.12874877608633,25.184579750314
+3,"1,2,4,5,6,7,107,108",LightGBM,EnhancedNoClock,Absolute,Ordinary,70.76576421535162,25.244865224830033
+4,"1,2,3,5,6,7,107,108",Linear Regression,EnhancedNoClock,Default,Ordinary,58.94982194992813,38.27754629625831
+4,"1,2,3,5,6,7,107,108",Random Forest,EnhancedNoClock,Default,Maximum-window,77.17883500703442,27.168740630695183
+4,"1,2,3,5,6,7,107,108",XGBoost,EnhancedNoClock,Default,Ordinary,69.72269611819543,25.663067796171354
+4,"1,2,3,5,6,7,107,108",LightGBM,EnhancedNoClock,Absolute,Ordinary,69.97566084984174,25.943266373341082
+5,"1,2,3,4,6,7,107,108",Linear Regression,EnhancedNoClock,Default,Ordinary,58.15262093837694,37.668707594147165
+5,"1,2,3,4,6,7,107,108",Random Forest,EnhancedNoClock,Default,Maximum-window,78.47575327710251,26.33022904646254
+5,"1,2,3,4,6,7,107,108",XGBoost,EnhancedNoClock,Default,Ordinary,70.13817032573385,25.508290706572353
+5,"1,2,3,4,6,7,107,108",LightGBM,EnhancedNoClock,Flexible,Ordinary,70.77498620944587,25.59369578916409
+6,"1,2,3,4,5,7,107,108",Linear Regression,EnhancedNoClock,Default,Ordinary,56.90710474061314,40.431562492834345
+6,"1,2,3,4,5,7,107,108",Random Forest,EnhancedNoClock,Subsample,Maximum-window,76.02572120166658,27.152675718970364
+6,"1,2,3,4,5,7,107,108",XGBoost,EnhancedNoClock,Default,Ordinary,68.7035216932801,27.047280356991976
+6,"1,2,3,4,5,7,107,108",LightGBM,EnhancedNoClock,Default,Ordinary,68.23478084244891,27.508636592459094
+7,"1,2,3,4,5,6,107,108",Linear Regression,EnhancedNoClock,Default,Ordinary,55.35664224850775,38.771327724560194
+7,"1,2,3,4,5,6,107,108",Random Forest,EnhancedNoClock,Smooth,Maximum-window,75.46629105686324,26.526214022904252
+7,"1,2,3,4,5,6,107,108",XGBoost,EnhancedNoClock,Penalized,Ordinary,66.18027120023676,27.032388749720667
+7,"1,2,3,4,5,6,107,108",LightGBM,EnhancedNoClock,Absolute,Ordinary,68.61572706803534,26.70880779871836
+107,"1,2,3,4,5,6,7,108",Linear Regression,EnhancedNoClock,Default,Ordinary,59.93931797571959,37.036581141204636
+107,"1,2,3,4,5,6,7,108",Random Forest,EnhancedNoClock,Subsample,Maximum-window,76.5080897358707,26.83842655480742
+107,"1,2,3,4,5,6,7,108",XGBoost,EnhancedNoClock,Default,Ordinary,70.78416438653201,25.943210046388206
+107,"1,2,3,4,5,6,7,108",LightGBM,EnhancedNoClock,Absolute,Ordinary,71.08503250290065,25.902069916211616
+108,"1,2,3,4,5,6,7,107",Linear Regression,EnhancedNoClock,Default,Ordinary,57.17085679995799,35.122535714932
+108,"1,2,3,4,5,6,7,107",Random Forest,EnhancedNoClock,Default,Maximum-window,77.6811088246969,26.201192688171744
+108,"1,2,3,4,5,6,7,107",XGBoost,EnhancedNoClock,Default,Ordinary,69.70012238862446,25.844615967150535
+108,"1,2,3,4,5,6,7,107",LightGBM,EnhancedNoClock,Default,Ordinary,69.47921268537377,26.30463438400357

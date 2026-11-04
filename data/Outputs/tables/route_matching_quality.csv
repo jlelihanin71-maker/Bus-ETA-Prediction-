@@ -1,0 +1,6 @@
+metric,value
+mean_offset_m,31.721819247836724
+median_offset_m,4.266409939543326
+p90_offset_m,80.35436603681873
+max_offset_m,712.293903678005
+gps_fixes_offset_above_1000m,0.0

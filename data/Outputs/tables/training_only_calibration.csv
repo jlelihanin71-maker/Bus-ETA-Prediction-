@@ -1,0 +1,309 @@
+test_trip,model,checkpoint,training_events,global_shift_sec,raw_checkpoint_shift_sec,applied_shift_sec,calibration_source
+1,Linear Regression,9 ORIENTE,6,2.0,0.0,1.1428571428571428,Training-trip out-of-fold residuals only
+1,Linear Regression,BASE,6,2.0,-20.0,-7.428571428571429,Training-trip out-of-fold residuals only
+1,Linear Regression,CENTRAL CAMIONERA,6,2.0,2.0,2.0,Training-trip out-of-fold residuals only
+1,Linear Regression,EL CARMEN,6,2.0,-12.0,-3.9999999999999996,Training-trip out-of-fold residuals only
+1,Linear Regression,GASOLINERA,6,2.0,0.0,1.1428571428571428,Training-trip out-of-fold residuals only
+1,Linear Regression,OXXO EXPLANADA,6,2.0,2.0,2.0,Training-trip out-of-fold residuals only
+1,Linear Regression,PALETERIA,6,2.0,-4.0,-0.5714285714285714,Training-trip out-of-fold residuals only
+1,Linear Regression,PEREYRA,6,2.0,12.0,6.285714285714285,Training-trip out-of-fold residuals only
+1,Linear Regression,PERI PLAZA,6,2.0,16.0,8.0,Training-trip out-of-fold residuals only
+1,Linear Regression,TORRES I,6,2.0,-34.0,-13.428571428571429,Training-trip out-of-fold residuals only
+1,Linear Regression,VALSEQUILLO,6,2.0,6.0,3.714285714285714,Training-trip out-of-fold residuals only
+1,Random Forest,9 ORIENTE,6,-6.0,8.0,0.0,Training-trip out-of-fold residuals only
+1,Random Forest,BASE,6,-6.0,-10.0,-7.7142857142857135,Training-trip out-of-fold residuals only
+1,Random Forest,CENTRAL CAMIONERA,6,-6.0,0.0,-3.4285714285714284,Training-trip out-of-fold residuals only
+1,Random Forest,EL CARMEN,6,-6.0,-10.0,-7.7142857142857135,Training-trip out-of-fold residuals only
+1,Random Forest,GASOLINERA,6,-6.0,2.0,-2.571428571428571,Training-trip out-of-fold residuals only
+1,Random Forest,OXXO EXPLANADA,6,-6.0,-2.0,-4.285714285714286,Training-trip out-of-fold residuals only
+1,Random Forest,PALETERIA,6,-6.0,-8.0,-6.857142857142857,Training-trip out-of-fold residuals only
+1,Random Forest,PEREYRA,6,-6.0,-18.0,-11.142857142857142,Training-trip out-of-fold residuals only
+1,Random Forest,PERI PLAZA,6,-6.0,2.0,-2.571428571428571,Training-trip out-of-fold residuals only
+1,Random Forest,TORRES I,6,-6.0,-6.0,-6.0,Training-trip out-of-fold residuals only
+1,Random Forest,VALSEQUILLO,6,-6.0,-6.0,-6.0,Training-trip out-of-fold residuals only
+1,XGBoost,9 ORIENTE,6,0.0,0.0,0.0,Training-trip out-of-fold residuals only
+1,XGBoost,BASE,6,0.0,10.0,4.285714285714286,Training-trip out-of-fold residuals only
+1,XGBoost,CENTRAL CAMIONERA,6,0.0,2.0,0.8571428571428571,Training-trip out-of-fold residuals only
+1,XGBoost,EL CARMEN,6,0.0,-8.0,-3.4285714285714284,Training-trip out-of-fold residuals only
+1,XGBoost,GASOLINERA,6,0.0,0.0,0.0,Training-trip out-of-fold residuals only
+1,XGBoost,OXXO EXPLANADA,6,0.0,0.0,0.0,Training-trip out-of-fold residuals only
+1,XGBoost,PALETERIA,6,0.0,-4.0,-1.7142857142857142,Training-trip out-of-fold residuals only
+1,XGBoost,PEREYRA,6,0.0,-24.0,-10.285714285714285,Training-trip out-of-fold residuals only
+1,XGBoost,PERI PLAZA,6,0.0,6.0,2.571428571428571,Training-trip out-of-fold residuals only
+1,XGBoost,TORRES I,6,0.0,-6.0,-2.571428571428571,Training-trip out-of-fold residuals only
+1,XGBoost,VALSEQUILLO,6,0.0,-12.0,-5.142857142857142,Training-trip out-of-fold residuals only
+1,LightGBM,9 ORIENTE,6,0.0,6.0,2.571428571428571,Training-trip out-of-fold residuals only
+1,LightGBM,BASE,6,0.0,-2.0,-0.8571428571428571,Training-trip out-of-fold residuals only
+1,LightGBM,CENTRAL CAMIONERA,6,0.0,0.0,0.0,Training-trip out-of-fold residuals only
+1,LightGBM,EL CARMEN,6,0.0,0.0,0.0,Training-trip out-of-fold residuals only
+1,LightGBM,GASOLINERA,6,0.0,-2.0,-0.8571428571428571,Training-trip out-of-fold residuals only
+1,LightGBM,OXXO EXPLANADA,6,0.0,-2.0,-0.8571428571428571,Training-trip out-of-fold residuals only
+1,LightGBM,PALETERIA,6,0.0,0.0,0.0,Training-trip out-of-fold residuals only
+1,LightGBM,PEREYRA,6,0.0,2.0,0.8571428571428571,Training-trip out-of-fold residuals only
+1,LightGBM,PERI PLAZA,6,0.0,8.0,3.4285714285714284,Training-trip out-of-fold residuals only
+1,LightGBM,TORRES I,6,0.0,-2.0,-0.8571428571428571,Training-trip out-of-fold residuals only
+1,LightGBM,VALSEQUILLO,6,0.0,2.0,0.8571428571428571,Training-trip out-of-fold residuals only
+2,Linear Regression,9 ORIENTE,6,2.0,0.0,1.1428571428571428,Training-trip out-of-fold residuals only
+2,Linear Regression,BASE,6,2.0,-26.0,-10.0,Training-trip out-of-fold residuals only
+2,Linear Regression,CENTRAL CAMIONERA,6,2.0,2.0,2.0,Training-trip out-of-fold residuals only
+2,Linear Regression,EL CARMEN,6,2.0,-10.0,-3.142857142857143,Training-trip out-of-fold residuals only
+2,Linear Regression,GASOLINERA,6,2.0,2.0,2.0,Training-trip out-of-fold residuals only
+2,Linear Regression,OXXO EXPLANADA,6,2.0,-4.0,-0.5714285714285714,Training-trip out-of-fold residuals only
+2,Linear Regression,PALETERIA,6,2.0,8.0,4.571428571428571,Training-trip out-of-fold residuals only
+2,Linear Regression,PEREYRA,6,2.0,0.0,1.1428571428571428,Training-trip out-of-fold residuals only
+2,Linear Regression,PERI PLAZA,6,2.0,32.0,14.857142857142856,Training-trip out-of-fold residuals only
+2,Linear Regression,TORRES I,6,2.0,26.0,12.285714285714285,Training-trip out-of-fold residuals only
+2,Linear Regression,VALSEQUILLO,6,2.0,14.0,7.142857142857142,Training-trip out-of-fold residuals only
+2,Random Forest,9 ORIENTE,6,-2.0,-2.0,-2.0,Training-trip out-of-fold residuals only
+2,Random Forest,BASE,6,-2.0,-34.0,-15.714285714285714,Training-trip out-of-fold residuals only
+2,Random Forest,CENTRAL CAMIONERA,6,-2.0,2.0,-0.2857142857142857,Training-trip out-of-fold residuals only
+2,Random Forest,EL CARMEN,6,-2.0,-14.0,-7.142857142857142,Training-trip out-of-fold residuals only
+2,Random Forest,GASOLINERA,6,-2.0,6.0,1.4285714285714284,Training-trip out-of-fold residuals only
+2,Random Forest,OXXO EXPLANADA,6,-2.0,-6.0,-3.714285714285714,Training-trip out-of-fold residuals only
+2,Random Forest,PALETERIA,6,-2.0,-6.0,-3.714285714285714,Training-trip out-of-fold residuals only
+2,Random Forest,PEREYRA,6,-2.0,48.0,19.428571428571427,Training-trip out-of-fold residuals only
+2,Random Forest,PERI PLAZA,6,-2.0,-2.0,-2.0,Training-trip out-of-fold residuals only
+2,Random Forest,TORRES I,6,-2.0,8.0,2.2857142857142856,Training-trip out-of-fold residuals only
+2,Random Forest,VALSEQUILLO,6,-2.0,-8.0,-4.571428571428571,Training-trip out-of-fold residuals only
+2,XGBoost,9 ORIENTE,6,-2.0,-2.0,-2.0,Training-trip out-of-fold residuals only
+2,XGBoost,BASE,6,-2.0,-30.0,-13.999999999999998,Training-trip out-of-fold residuals only
+2,XGBoost,CENTRAL CAMIONERA,6,-2.0,4.0,0.5714285714285714,Training-trip out-of-fold residuals only
+2,XGBoost,EL CARMEN,6,-2.0,2.0,-0.2857142857142857,Training-trip out-of-fold residuals only
+2,XGBoost,GASOLINERA,6,-2.0,2.0,-0.2857142857142857,Training-trip out-of-fold residuals only
+2,XGBoost,OXXO EXPLANADA,6,-2.0,-8.0,-4.571428571428571,Training-trip out-of-fold residuals only
+2,XGBoost,PALETERIA,6,-2.0,-4.0,-2.8571428571428568,Training-trip out-of-fold residuals only
+2,XGBoost,PEREYRA,6,-2.0,50.0,20.285714285714285,Training-trip out-of-fold residuals only
+2,XGBoost,PERI PLAZA,6,-2.0,-6.0,-3.714285714285714,Training-trip out-of-fold residuals only
+2,XGBoost,TORRES I,6,-2.0,-2.0,-2.0,Training-trip out-of-fold residuals only
+2,XGBoost,VALSEQUILLO,6,-2.0,-4.0,-2.8571428571428568,Training-trip out-of-fold residuals only
+2,LightGBM,9 ORIENTE,6,-4.0,4.0,-0.5714285714285714,Training-trip out-of-fold residuals only
+2,LightGBM,BASE,6,-4.0,-26.0,-13.428571428571427,Training-trip out-of-fold residuals only
+2,LightGBM,CENTRAL CAMIONERA,6,-4.0,0.0,-2.2857142857142856,Training-trip out-of-fold residuals only
+2,LightGBM,EL CARMEN,6,-4.0,2.0,-1.4285714285714284,Training-trip out-of-fold residuals only
+2,LightGBM,GASOLINERA,6,-4.0,4.0,-0.5714285714285714,Training-trip out-of-fold residuals only
+2,LightGBM,OXXO EXPLANADA,6,-4.0,-2.0,-3.142857142857143,Training-trip out-of-fold residuals only
+2,LightGBM,PALETERIA,6,-4.0,0.0,-2.2857142857142856,Training-trip out-of-fold residuals only
+2,LightGBM,PEREYRA,6,-4.0,48.0,18.285714285714285,Training-trip out-of-fold residuals only
+2,LightGBM,PERI PLAZA,6,-4.0,-12.0,-7.428571428571428,Training-trip out-of-fold residuals only
+2,LightGBM,TORRES I,6,-4.0,-4.0,-4.0,Training-trip out-of-fold residuals only
+2,LightGBM,VALSEQUILLO,6,-4.0,-4.0,-4.0,Training-trip out-of-fold residuals only
+3,Linear Regression,9 ORIENTE,6,-2.0,-4.0,-2.8571428571428568,Training-trip out-of-fold residuals only
+3,Linear Regression,BASE,6,-2.0,-22.0,-10.571428571428571,Training-trip out-of-fold residuals only
+3,Linear Regression,CENTRAL CAMIONERA,6,-2.0,6.0,1.4285714285714284,Training-trip out-of-fold residuals only
+3,Linear Regression,EL CARMEN,6,-2.0,-4.0,-2.8571428571428568,Training-trip out-of-fold residuals only
+3,Linear Regression,GASOLINERA,6,-2.0,-2.0,-2.0,Training-trip out-of-fold residuals only
+3,Linear Regression,OXXO EXPLANADA,6,-2.0,2.0,-0.2857142857142857,Training-trip out-of-fold residuals only
+3,Linear Regression,PALETERIA,6,-2.0,6.0,1.4285714285714284,Training-trip out-of-fold residuals only
+3,Linear Regression,PEREYRA,6,-2.0,12.0,3.9999999999999996,Training-trip out-of-fold residuals only
+3,Linear Regression,PERI PLAZA,6,-2.0,16.0,5.7142857142857135,Training-trip out-of-fold residuals only
+3,Linear Regression,TORRES I,6,-2.0,-54.0,-24.285714285714285,Training-trip out-of-fold residuals only
+3,Linear Regression,VALSEQUILLO,6,-2.0,14.0,4.857142857142858,Training-trip out-of-fold residuals only
+3,Random Forest,9 ORIENTE,6,-2.0,8.0,2.2857142857142856,Training-trip out-of-fold residuals only
+3,Random Forest,BASE,6,-2.0,-22.0,-10.571428571428571,Training-trip out-of-fold residuals only
+3,Random Forest,CENTRAL CAMIONERA,6,-2.0,0.0,-1.1428571428571428,Training-trip out-of-fold residuals only
+3,Random Forest,EL CARMEN,6,-2.0,6.0,1.4285714285714284,Training-trip out-of-fold residuals only
+3,Random Forest,GASOLINERA,6,-2.0,2.0,-0.2857142857142857,Training-trip out-of-fold residuals only
+3,Random Forest,OXXO EXPLANADA,6,-2.0,-8.0,-4.571428571428571,Training-trip out-of-fold residuals only
+3,Random Forest,PALETERIA,6,-2.0,-2.0,-2.0,Training-trip out-of-fold residuals only
+3,Random Forest,PEREYRA,6,-2.0,8.0,2.2857142857142856,Training-trip out-of-fold residuals only
+3,Random Forest,PERI PLAZA,6,-2.0,4.0,0.5714285714285714,Training-trip out-of-fold residuals only
+3,Random Forest,TORRES I,6,-2.0,-6.0,-3.714285714285714,Training-trip out-of-fold residuals only
+3,Random Forest,VALSEQUILLO,6,-2.0,-4.0,-2.8571428571428568,Training-trip out-of-fold residuals only
+3,XGBoost,9 ORIENTE,6,0.0,6.0,2.571428571428571,Training-trip out-of-fold residuals only
+3,XGBoost,BASE,6,0.0,-16.0,-6.857142857142857,Training-trip out-of-fold residuals only
+3,XGBoost,CENTRAL CAMIONERA,6,0.0,-2.0,-0.8571428571428571,Training-trip out-of-fold residuals only
+3,XGBoost,EL CARMEN,6,0.0,2.0,0.8571428571428571,Training-trip out-of-fold residuals only
+3,XGBoost,GASOLINERA,6,0.0,2.0,0.8571428571428571,Training-trip out-of-fold residuals only
+3,XGBoost,OXXO EXPLANADA,6,0.0,-6.0,-2.571428571428571,Training-trip out-of-fold residuals only
+3,XGBoost,PALETERIA,6,0.0,-2.0,-0.8571428571428571,Training-trip out-of-fold residuals only
+3,XGBoost,PEREYRA,6,0.0,-10.0,-4.285714285714286,Training-trip out-of-fold residuals only
+3,XGBoost,PERI PLAZA,6,0.0,0.0,0.0,Training-trip out-of-fold residuals only
+3,XGBoost,TORRES I,6,0.0,-2.0,-0.8571428571428571,Training-trip out-of-fold residuals only
+3,XGBoost,VALSEQUILLO,6,0.0,-6.0,-2.571428571428571,Training-trip out-of-fold residuals only
+3,LightGBM,9 ORIENTE,6,0.0,8.0,3.4285714285714284,Training-trip out-of-fold residuals only
+3,LightGBM,BASE,6,0.0,-26.0,-11.142857142857142,Training-trip out-of-fold residuals only
+3,LightGBM,CENTRAL CAMIONERA,6,0.0,2.0,0.8571428571428571,Training-trip out-of-fold residuals only
+3,LightGBM,EL CARMEN,6,0.0,-6.0,-2.571428571428571,Training-trip out-of-fold residuals only
+3,LightGBM,GASOLINERA,6,0.0,4.0,1.7142857142857142,Training-trip out-of-fold residuals only
+3,LightGBM,OXXO EXPLANADA,6,0.0,0.0,0.0,Training-trip out-of-fold residuals only
+3,LightGBM,PALETERIA,6,0.0,-8.0,-3.4285714285714284,Training-trip out-of-fold residuals only
+3,LightGBM,PEREYRA,6,0.0,-14.0,-6.0,Training-trip out-of-fold residuals only
+3,LightGBM,PERI PLAZA,6,0.0,-2.0,-0.8571428571428571,Training-trip out-of-fold residuals only
+3,LightGBM,TORRES I,6,0.0,18.0,7.7142857142857135,Training-trip out-of-fold residuals only
+3,LightGBM,VALSEQUILLO,6,0.0,-6.0,-2.571428571428571,Training-trip out-of-fold residuals only
+4,Linear Regression,9 ORIENTE,6,-2.0,-4.0,-2.8571428571428568,Training-trip out-of-fold residuals only
+4,Linear Regression,BASE,6,-2.0,-34.0,-15.714285714285714,Training-trip out-of-fold residuals only
+4,Linear Regression,CENTRAL CAMIONERA,6,-2.0,2.0,-0.2857142857142857,Training-trip out-of-fold residuals only
+4,Linear Regression,EL CARMEN,6,-2.0,-12.0,-6.285714285714285,Training-trip out-of-fold residuals only
+4,Linear Regression,GASOLINERA,6,-2.0,-2.0,-2.0,Training-trip out-of-fold residuals only
+4,Linear Regression,OXXO EXPLANADA,6,-2.0,-2.0,-2.0,Training-trip out-of-fold residuals only
+4,Linear Regression,PALETERIA,6,-2.0,0.0,-1.1428571428571428,Training-trip out-of-fold residuals only
+4,Linear Regression,PEREYRA,6,-2.0,40.0,16.0,Training-trip out-of-fold residuals only
+4,Linear Regression,PERI PLAZA,6,-2.0,16.0,5.7142857142857135,Training-trip out-of-fold residuals only
+4,Linear Regression,TORRES I,6,-2.0,26.0,10.0,Training-trip out-of-fold residuals only
+4,Linear Regression,VALSEQUILLO,6,-2.0,12.0,3.9999999999999996,Training-trip out-of-fold residuals only
+4,Random Forest,9 ORIENTE,6,2.0,2.0,2.0,Training-trip out-of-fold residuals only
+4,Random Forest,BASE,6,2.0,-22.0,-8.285714285714286,Training-trip out-of-fold residuals only
+4,Random Forest,CENTRAL CAMIONERA,6,2.0,-2.0,0.2857142857142857,Training-trip out-of-fold residuals only
+4,Random Forest,EL CARMEN,6,2.0,-20.0,-7.428571428571429,Training-trip out-of-fold residuals only
+4,Random Forest,GASOLINERA,6,2.0,0.0,1.1428571428571428,Training-trip out-of-fold residuals only
+4,Random Forest,OXXO EXPLANADA,6,2.0,0.0,1.1428571428571428,Training-trip out-of-fold residuals only
+4,Random Forest,PALETERIA,6,2.0,-8.0,-2.2857142857142856,Training-trip out-of-fold residuals only
+4,Random Forest,PEREYRA,6,2.0,50.0,22.57142857142857,Training-trip out-of-fold residuals only
+4,Random Forest,PERI PLAZA,6,2.0,6.0,3.714285714285714,Training-trip out-of-fold residuals only
+4,Random Forest,TORRES I,6,2.0,8.0,4.571428571428571,Training-trip out-of-fold residuals only
+4,Random Forest,VALSEQUILLO,6,2.0,-10.0,-3.142857142857143,Training-trip out-of-fold residuals only
+4,XGBoost,9 ORIENTE,6,0.0,2.0,0.8571428571428571,Training-trip out-of-fold residuals only
+4,XGBoost,BASE,6,0.0,0.0,0.0,Training-trip out-of-fold residuals only
+4,XGBoost,CENTRAL CAMIONERA,6,0.0,-2.0,-0.8571428571428571,Training-trip out-of-fold residuals only
+4,XGBoost,EL CARMEN,6,0.0,-4.0,-1.7142857142857142,Training-trip out-of-fold residuals only
+4,XGBoost,GASOLINERA,6,0.0,4.0,1.7142857142857142,Training-trip out-of-fold residuals only
+4,XGBoost,OXXO EXPLANADA,6,0.0,-8.0,-3.4285714285714284,Training-trip out-of-fold residuals only
+4,XGBoost,PALETERIA,6,0.0,-2.0,-0.8571428571428571,Training-trip out-of-fold residuals only
+4,XGBoost,PEREYRA,6,0.0,56.0,24.0,Training-trip out-of-fold residuals only
+4,XGBoost,PERI PLAZA,6,0.0,10.0,4.285714285714286,Training-trip out-of-fold residuals only
+4,XGBoost,TORRES I,6,0.0,10.0,4.285714285714286,Training-trip out-of-fold residuals only
+4,XGBoost,VALSEQUILLO,6,0.0,-14.0,-6.0,Training-trip out-of-fold residuals only
+4,LightGBM,9 ORIENTE,6,2.0,2.0,2.0,Training-trip out-of-fold residuals only
+4,LightGBM,BASE,6,2.0,14.0,7.142857142857142,Training-trip out-of-fold residuals only
+4,LightGBM,CENTRAL CAMIONERA,6,2.0,-2.0,0.2857142857142857,Training-trip out-of-fold residuals only
+4,LightGBM,EL CARMEN,6,2.0,4.0,2.8571428571428568,Training-trip out-of-fold residuals only
+4,LightGBM,GASOLINERA,6,2.0,0.0,1.1428571428571428,Training-trip out-of-fold residuals only
+4,LightGBM,OXXO EXPLANADA,6,2.0,-2.0,0.2857142857142857,Training-trip out-of-fold residuals only
+4,LightGBM,PALETERIA,6,2.0,0.0,1.1428571428571428,Training-trip out-of-fold residuals only
+4,LightGBM,PEREYRA,6,2.0,34.0,15.714285714285714,Training-trip out-of-fold residuals only
+4,LightGBM,PERI PLAZA,6,2.0,2.0,2.0,Training-trip out-of-fold residuals only
+4,LightGBM,TORRES I,6,2.0,22.0,10.571428571428571,Training-trip out-of-fold residuals only
+4,LightGBM,VALSEQUILLO,6,2.0,-4.0,-0.5714285714285714,Training-trip out-of-fold residuals only
+5,Linear Regression,9 ORIENTE,6,2.0,8.0,4.571428571428571,Training-trip out-of-fold residuals only
+5,Linear Regression,BASE,6,2.0,-44.0,-17.714285714285715,Training-trip out-of-fold residuals only
+5,Linear Regression,CENTRAL CAMIONERA,6,2.0,2.0,2.0,Training-trip out-of-fold residuals only
+5,Linear Regression,EL CARMEN,6,2.0,-6.0,-1.4285714285714284,Training-trip out-of-fold residuals only
+5,Linear Regression,GASOLINERA,6,2.0,-2.0,0.2857142857142857,Training-trip out-of-fold residuals only
+5,Linear Regression,OXXO EXPLANADA,6,2.0,-2.0,0.2857142857142857,Training-trip out-of-fold residuals only
+5,Linear Regression,PALETERIA,6,2.0,2.0,2.0,Training-trip out-of-fold residuals only
+5,Linear Regression,PEREYRA,6,2.0,-12.0,-3.9999999999999996,Training-trip out-of-fold residuals only
+5,Linear Regression,PERI PLAZA,6,2.0,16.0,8.0,Training-trip out-of-fold residuals only
+5,Linear Regression,TORRES I,6,2.0,-46.0,-18.57142857142857,Training-trip out-of-fold residuals only
+5,Linear Regression,VALSEQUILLO,6,2.0,22.0,10.571428571428571,Training-trip out-of-fold residuals only
+5,Random Forest,9 ORIENTE,6,2.0,6.0,3.714285714285714,Training-trip out-of-fold residuals only
+5,Random Forest,BASE,6,2.0,-40.0,-16.0,Training-trip out-of-fold residuals only
+5,Random Forest,CENTRAL CAMIONERA,6,2.0,0.0,1.1428571428571428,Training-trip out-of-fold residuals only
+5,Random Forest,EL CARMEN,6,2.0,-10.0,-3.142857142857143,Training-trip out-of-fold residuals only
+5,Random Forest,GASOLINERA,6,2.0,-2.0,0.2857142857142857,Training-trip out-of-fold residuals only
+5,Random Forest,OXXO EXPLANADA,6,2.0,-6.0,-1.4285714285714284,Training-trip out-of-fold residuals only
+5,Random Forest,PALETERIA,6,2.0,0.0,1.1428571428571428,Training-trip out-of-fold residuals only
+5,Random Forest,PEREYRA,6,2.0,12.0,6.285714285714285,Training-trip out-of-fold residuals only
+5,Random Forest,PERI PLAZA,6,2.0,-2.0,0.2857142857142857,Training-trip out-of-fold residuals only
+5,Random Forest,TORRES I,6,2.0,4.0,2.8571428571428568,Training-trip out-of-fold residuals only
+5,Random Forest,VALSEQUILLO,6,2.0,-10.0,-3.142857142857143,Training-trip out-of-fold residuals only
+5,XGBoost,9 ORIENTE,6,-6.0,0.0,-3.4285714285714284,Training-trip out-of-fold residuals only
+5,XGBoost,BASE,6,-6.0,-38.0,-19.71428571428571,Training-trip out-of-fold residuals only
+5,XGBoost,CENTRAL CAMIONERA,6,-6.0,-2.0,-4.285714285714286,Training-trip out-of-fold residuals only
+5,XGBoost,EL CARMEN,6,-6.0,-14.0,-9.428571428571429,Training-trip out-of-fold residuals only
+5,XGBoost,GASOLINERA,6,-6.0,4.0,-1.7142857142857142,Training-trip out-of-fold residuals only
+5,XGBoost,OXXO EXPLANADA,6,-6.0,-2.0,-4.285714285714286,Training-trip out-of-fold residuals only
+5,XGBoost,PALETERIA,6,-6.0,0.0,-3.4285714285714284,Training-trip out-of-fold residuals only
+5,XGBoost,PEREYRA,6,-6.0,8.0,0.0,Training-trip out-of-fold residuals only
+5,XGBoost,PERI PLAZA,6,-6.0,-8.0,-6.857142857142857,Training-trip out-of-fold residuals only
+5,XGBoost,TORRES I,6,-6.0,-14.0,-9.428571428571429,Training-trip out-of-fold residuals only
+5,XGBoost,VALSEQUILLO,6,-6.0,-8.0,-6.857142857142857,Training-trip out-of-fold residuals only
+5,LightGBM,9 ORIENTE,6,-2.0,10.0,3.142857142857143,Training-trip out-of-fold residuals only
+5,LightGBM,BASE,6,-2.0,-34.0,-15.714285714285714,Training-trip out-of-fold residuals only
+5,LightGBM,CENTRAL CAMIONERA,6,-2.0,0.0,-1.1428571428571428,Training-trip out-of-fold residuals only
+5,LightGBM,EL CARMEN,6,-2.0,-8.0,-4.571428571428571,Training-trip out-of-fold residuals only
+5,LightGBM,GASOLINERA,6,-2.0,0.0,-1.1428571428571428,Training-trip out-of-fold residuals only
+5,LightGBM,OXXO EXPLANADA,6,-2.0,0.0,-1.1428571428571428,Training-trip out-of-fold residuals only
+5,LightGBM,PALETERIA,6,-2.0,-4.0,-2.8571428571428568,Training-trip out-of-fold residuals only
+5,LightGBM,PEREYRA,6,-2.0,12.0,3.9999999999999996,Training-trip out-of-fold residuals only
+5,LightGBM,PERI PLAZA,6,-2.0,-14.0,-7.142857142857142,Training-trip out-of-fold residuals only
+5,LightGBM,TORRES I,6,-2.0,6.0,1.4285714285714284,Training-trip out-of-fold residuals only
+5,LightGBM,VALSEQUILLO,6,-2.0,-4.0,-2.8571428571428568,Training-trip out-of-fold residuals only
+6,Linear Regression,9 ORIENTE,6,2.0,2.0,2.0,Training-trip out-of-fold residuals only
+6,Linear Regression,BASE,6,2.0,-42.0,-16.857142857142858,Training-trip out-of-fold residuals only
+6,Linear Regression,CENTRAL CAMIONERA,6,2.0,2.0,2.0,Training-trip out-of-fold residuals only
+6,Linear Regression,EL CARMEN,6,2.0,-4.0,-0.5714285714285714,Training-trip out-of-fold residuals only
+6,Linear Regression,GASOLINERA,6,2.0,2.0,2.0,Training-trip out-of-fold residuals only
+6,Linear Regression,OXXO EXPLANADA,6,2.0,-2.0,0.2857142857142857,Training-trip out-of-fold residuals only
+6,Linear Regression,PALETERIA,6,2.0,2.0,2.0,Training-trip out-of-fold residuals only
+6,Linear Regression,PEREYRA,6,2.0,52.0,23.428571428571427,Training-trip out-of-fold residuals only
+6,Linear Regression,PERI PLAZA,6,2.0,32.0,14.857142857142856,Training-trip out-of-fold residuals only
+6,Linear Regression,TORRES I,6,2.0,-52.0,-21.142857142857142,Training-trip out-of-fold residuals only
+6,Linear Regression,VALSEQUILLO,6,2.0,20.0,9.714285714285714,Training-trip out-of-fold residuals only
+6,Random Forest,9 ORIENTE,6,-2.0,0.0,-1.1428571428571428,Training-trip out-of-fold residuals only
+6,Random Forest,BASE,6,-2.0,-34.0,-15.714285714285714,Training-trip out-of-fold residuals only
+6,Random Forest,CENTRAL CAMIONERA,6,-2.0,4.0,0.5714285714285714,Training-trip out-of-fold residuals only
+6,Random Forest,EL CARMEN,6,-2.0,12.0,3.9999999999999996,Training-trip out-of-fold residuals only
+6,Random Forest,GASOLINERA,6,-2.0,4.0,0.5714285714285714,Training-trip out-of-fold residuals only
+6,Random Forest,OXXO EXPLANADA,6,-2.0,-6.0,-3.714285714285714,Training-trip out-of-fold residuals only
+6,Random Forest,PALETERIA,6,-2.0,-2.0,-2.0,Training-trip out-of-fold residuals only
+6,Random Forest,PEREYRA,6,-2.0,52.0,21.142857142857142,Training-trip out-of-fold residuals only
+6,Random Forest,PERI PLAZA,6,-2.0,-12.0,-6.285714285714285,Training-trip out-of-fold residuals only
+6,Random Forest,TORRES I,6,-2.0,-16.0,-8.0,Training-trip out-of-fold residuals only
+6,Random Forest,VALSEQUILLO,6,-2.0,-10.0,-5.428571428571429,Training-trip out-of-fold residuals only
+6,XGBoost,9 ORIENTE,6,-2.0,0.0,-1.1428571428571428,Training-trip out-of-fold residuals only
+6,XGBoost,BASE,6,-2.0,-36.0,-16.57142857142857,Training-trip out-of-fold residuals only
+6,XGBoost,CENTRAL CAMIONERA,6,-2.0,2.0,-0.2857142857142857,Training-trip out-of-fold residuals only
+6,XGBoost,EL CARMEN,6,-2.0,10.0,3.142857142857143,Training-trip out-of-fold residuals only
+6,XGBoost,GASOLINERA,6,-2.0,-2.0,-2.0,Training-trip out-of-fold residuals only
+6,XGBoost,OXXO EXPLANADA,6,-2.0,0.0,-1.1428571428571428,Training-trip out-of-fold residuals only
+6,XGBoost,PALETERIA,6,-2.0,-2.0,-2.0,Training-trip out-of-fold residuals only
+6,XGBoost,PEREYRA,6,-2.0,54.0,22.0,Training-trip out-of-fold residuals only
+6,XGBoost,PERI PLAZA,6,-2.0,0.0,-1.1428571428571428,Training-trip out-of-fold residuals only
+6,XGBoost,TORRES I,6,-2.0,2.0,-0.2857142857142857,Training-trip out-of-fold residuals only
+6,XGBoost,VALSEQUILLO,6,-2.0,-2.0,-2.0,Training-trip out-of-fold residuals only
+6,LightGBM,9 ORIENTE,6,2.0,-6.0,-1.4285714285714284,Training-trip out-of-fold residuals only
+6,LightGBM,BASE,6,2.0,-32.0,-12.571428571428571,Training-trip out-of-fold residuals only
+6,LightGBM,CENTRAL CAMIONERA,6,2.0,0.0,1.1428571428571428,Training-trip out-of-fold residuals only
+6,LightGBM,EL CARMEN,6,2.0,0.0,1.1428571428571428,Training-trip out-of-fold residuals only
+6,LightGBM,GASOLINERA,6,2.0,4.0,2.8571428571428568,Training-trip out-of-fold residuals only
+6,LightGBM,OXXO EXPLANADA,6,2.0,-2.0,0.2857142857142857,Training-trip out-of-fold residuals only
+6,LightGBM,PALETERIA,6,2.0,0.0,1.1428571428571428,Training-trip out-of-fold residuals only
+6,LightGBM,PEREYRA,6,2.0,56.0,25.142857142857142,Training-trip out-of-fold residuals only
+6,LightGBM,PERI PLAZA,6,2.0,-18.0,-6.571428571428571,Training-trip out-of-fold residuals only
+6,LightGBM,TORRES I,6,2.0,-6.0,-1.4285714285714284,Training-trip out-of-fold residuals only
+6,LightGBM,VALSEQUILLO,6,2.0,2.0,2.0,Training-trip out-of-fold residuals only
+7,Linear Regression,9 ORIENTE,6,-4.0,-4.0,-4.0,Training-trip out-of-fold residuals only
+7,Linear Regression,BASE,6,-4.0,-40.0,-19.428571428571427,Training-trip out-of-fold residuals only
+7,Linear Regression,CENTRAL CAMIONERA,6,-4.0,6.0,0.2857142857142856,Training-trip out-of-fold residuals only
+7,Linear Regression,EL CARMEN,6,-4.0,-4.0,-4.0,Training-trip out-of-fold residuals only
+7,Linear Regression,GASOLINERA,6,-4.0,0.0,-2.2857142857142856,Training-trip out-of-fold residuals only
+7,Linear Regression,OXXO EXPLANADA,6,-4.0,8.0,1.1428571428571428,Training-trip out-of-fold residuals only
+7,Linear Regression,PALETERIA,6,-4.0,2.0,-1.4285714285714284,Training-trip out-of-fold residuals only
+7,Linear Regression,PEREYRA,6,-4.0,-50.0,-23.71428571428571,Training-trip out-of-fold residuals only
+7,Linear Regression,PERI PLAZA,6,-4.0,14.0,3.7142857142857144,Training-trip out-of-fold residuals only
+7,Linear Regression,TORRES I,6,-4.0,-4.0,-4.0,Training-trip out-of-fold residuals only
+7,Linear Regression,VALSEQUILLO,6,-4.0,4.0,-0.5714285714285714,Training-trip out-of-fold residuals only
+7,Random Forest,9 ORIENTE,6,-2.0,8.0,2.2857142857142856,Training-trip out-of-fold residuals only
+7,Random Forest,BASE,6,-2.0,-8.0,-4.571428571428571,Training-trip out-of-fold residuals only
+7,Random Forest,CENTRAL CAMIONERA,6,-2.0,-2.0,-2.0,Training-trip out-of-fold residuals only
+7,Random Forest,EL CARMEN,6,-2.0,2.0,-0.2857142857142857,Training-trip out-of-fold residuals only
+7,Random Forest,GASOLINERA,6,-2.0,-2.0,-2.0,Training-trip out-of-fold residuals only
+7,Random Forest,OXXO EXPLANADA,6,-2.0,-8.0,-4.571428571428571,Training-trip out-of-fold residuals only
+7,Random Forest,PALETERIA,6,-2.0,0.0,-1.1428571428571428,Training-trip out-of-fold residuals only
+7,Random Forest,PEREYRA,6,-2.0,-4.0,-2.8571428571428568,Training-trip out-of-fold residuals only
+7,Random Forest,PERI PLAZA,6,-2.0,-2.0,-2.0,Training-trip out-of-fold residuals only
+7,Random Forest,TORRES I,6,-2.0,4.0,0.5714285714285714,Training-trip out-of-fold residuals only
+7,Random Forest,VALSEQUILLO,6,-2.0,-6.0,-3.714285714285714,Training-trip out-of-fold residuals only
+7,XGBoost,9 ORIENTE,6,-2.0,-2.0,-2.0,Training-trip out-of-fold residuals only
+7,XGBoost,BASE,6,-2.0,-4.0,-2.8571428571428568,Training-trip out-of-fold residuals only
+7,XGBoost,CENTRAL CAMIONERA,6,-2.0,4.0,0.5714285714285714,Training-trip out-of-fold residuals only
+7,XGBoost,EL CARMEN,6,-2.0,4.0,0.5714285714285714,Training-trip out-of-fold residuals only
+7,XGBoost,GASOLINERA,6,-2.0,-4.0,-2.8571428571428568,Training-trip out-of-fold residuals only
+7,XGBoost,OXXO EXPLANADA,6,-2.0,4.0,0.5714285714285714,Training-trip out-of-fold residuals only
+7,XGBoost,PALETERIA,6,-2.0,-2.0,-2.0,Training-trip out-of-fold residuals only
+7,XGBoost,PEREYRA,6,-2.0,-28.0,-13.142857142857142,Training-trip out-of-fold residuals only
+7,XGBoost,PERI PLAZA,6,-2.0,-14.0,-7.142857142857142,Training-trip out-of-fold residuals only
+7,XGBoost,TORRES I,6,-2.0,4.0,0.5714285714285714,Training-trip out-of-fold residuals only
+7,XGBoost,VALSEQUILLO,6,-2.0,-2.0,-2.0,Training-trip out-of-fold residuals only
+7,LightGBM,9 ORIENTE,6,0.0,-4.0,-1.7142857142857142,Training-trip out-of-fold residuals only
+7,LightGBM,BASE,6,0.0,-2.0,-0.8571428571428571,Training-trip out-of-fold residuals only
+7,LightGBM,CENTRAL CAMIONERA,6,0.0,4.0,1.7142857142857142,Training-trip out-of-fold residuals only
+7,LightGBM,EL CARMEN,6,0.0,-4.0,-1.7142857142857142,Training-trip out-of-fold residuals only
+7,LightGBM,GASOLINERA,6,0.0,-2.0,-0.8571428571428571,Training-trip out-of-fold residuals only
+7,LightGBM,OXXO EXPLANADA,6,0.0,-8.0,-3.4285714285714284,Training-trip out-of-fold residuals only
+7,LightGBM,PALETERIA,6,0.0,0.0,0.0,Training-trip out-of-fold residuals only
+7,LightGBM,PEREYRA,6,0.0,-14.0,-6.0,Training-trip out-of-fold residuals only
+7,LightGBM,PERI PLAZA,6,0.0,-28.0,-12.0,Training-trip out-of-fold residuals only
+7,LightGBM,TORRES I,6,0.0,0.0,0.0,Training-trip out-of-fold residuals only
+7,LightGBM,VALSEQUILLO,6,0.0,-2.0,-0.8571428571428571,Training-trip out-of-fold residuals only

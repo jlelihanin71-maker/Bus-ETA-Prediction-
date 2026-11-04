@@ -1,0 +1,15 @@
+measure,value
+Raw GPS rows for labelled vehicles,9140.0
+Clean GPS rows for labelled vehicles,8398.0
+GPS vehicles,2.0
+GPS days,2.0
+Raw logbook rows,250.0
+Missing actual arrivals,18.0
+Median GPS interval (s),10.0
+Maximum GPS interval (s),73.0
+Maximum source speed (km/h),42.03
+"October GPS export rows, all vehicles",14500.0
+October GPS export vehicles,29.0
+October GPS rows for labelled unit 16,500.0
+October matched arrivals,11.0
+October ETA observations,162.0

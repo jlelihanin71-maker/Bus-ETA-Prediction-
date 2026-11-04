@@ -1,0 +1,100 @@
+outer_test_trip,model,checkpoint,training_arrivals,global_shift_sec,raw_checkpoint_shift_sec,checkpoint_shift_sec
+1,Random Forest,9 ORIENTE,7,0.0,0.0,0.0
+1,Random Forest,BASE,7,0.0,0.0,0.0
+1,Random Forest,CENTRAL CAMIONERA,7,0.0,0.0,0.0
+1,Random Forest,EL CARMEN,7,0.0,0.0,0.0
+1,Random Forest,GASOLINERA,7,0.0,0.0,0.0
+1,Random Forest,OXXO EXPLANADA,7,0.0,0.0,0.0
+1,Random Forest,PALETERIA,7,0.0,0.0,0.0
+1,Random Forest,PEREYRA,7,0.0,0.0,0.0
+1,Random Forest,PERI PLAZA,7,0.0,0.0,0.0
+1,Random Forest,TORRES I,7,0.0,0.0,0.0
+1,Random Forest,VALSEQUILLO,7,0.0,0.0,0.0
+2,Random Forest,9 ORIENTE,7,0.0,0.0,0.0
+2,Random Forest,BASE,7,0.0,0.0,0.0
+2,Random Forest,CENTRAL CAMIONERA,7,0.0,0.0,0.0
+2,Random Forest,EL CARMEN,7,0.0,0.0,0.0
+2,Random Forest,GASOLINERA,7,0.0,0.0,0.0
+2,Random Forest,OXXO EXPLANADA,7,0.0,0.0,0.0
+2,Random Forest,PALETERIA,7,0.0,0.0,0.0
+2,Random Forest,PEREYRA,7,0.0,0.0,0.0
+2,Random Forest,PERI PLAZA,7,0.0,0.0,0.0
+2,Random Forest,TORRES I,7,0.0,0.0,0.0
+2,Random Forest,VALSEQUILLO,7,0.0,0.0,0.0
+3,Random Forest,9 ORIENTE,7,0.0,0.0,0.0
+3,Random Forest,BASE,7,0.0,0.0,0.0
+3,Random Forest,CENTRAL CAMIONERA,7,0.0,0.0,0.0
+3,Random Forest,EL CARMEN,7,0.0,0.0,0.0
+3,Random Forest,GASOLINERA,7,0.0,0.0,0.0
+3,Random Forest,OXXO EXPLANADA,7,0.0,0.0,0.0
+3,Random Forest,PALETERIA,7,0.0,0.0,0.0
+3,Random Forest,PEREYRA,7,0.0,0.0,0.0
+3,Random Forest,PERI PLAZA,7,0.0,0.0,0.0
+3,Random Forest,TORRES I,7,0.0,0.0,0.0
+3,Random Forest,VALSEQUILLO,7,0.0,0.0,0.0
+4,Random Forest,9 ORIENTE,7,0.0,0.0,0.0
+4,Random Forest,BASE,7,0.0,0.0,0.0
+4,Random Forest,CENTRAL CAMIONERA,7,0.0,0.0,0.0
+4,Random Forest,EL CARMEN,7,0.0,0.0,0.0
+4,Random Forest,GASOLINERA,7,0.0,0.0,0.0
+4,Random Forest,OXXO EXPLANADA,7,0.0,0.0,0.0
+4,Random Forest,PALETERIA,7,0.0,0.0,0.0
+4,Random Forest,PEREYRA,7,0.0,0.0,0.0
+4,Random Forest,PERI PLAZA,7,0.0,0.0,0.0
+4,Random Forest,TORRES I,7,0.0,0.0,0.0
+4,Random Forest,VALSEQUILLO,7,0.0,0.0,0.0
+5,Random Forest,9 ORIENTE,7,0.0,0.0,0.0
+5,Random Forest,BASE,7,0.0,-40.0,-18.666666666666668
+5,Random Forest,CENTRAL CAMIONERA,7,0.0,0.0,0.0
+5,Random Forest,EL CARMEN,7,0.0,0.0,0.0
+5,Random Forest,GASOLINERA,7,0.0,0.0,0.0
+5,Random Forest,OXXO EXPLANADA,7,0.0,-6.0,-2.8
+5,Random Forest,PALETERIA,7,0.0,0.0,0.0
+5,Random Forest,PEREYRA,7,0.0,10.0,4.666666666666667
+5,Random Forest,PERI PLAZA,7,0.0,0.0,0.0
+5,Random Forest,TORRES I,7,0.0,0.0,0.0
+5,Random Forest,VALSEQUILLO,7,0.0,0.0,0.0
+6,Random Forest,9 ORIENTE,7,0.0,0.0,0.0
+6,Random Forest,BASE,7,0.0,-10.0,-4.666666666666667
+6,Random Forest,CENTRAL CAMIONERA,7,0.0,0.0,0.0
+6,Random Forest,EL CARMEN,7,0.0,0.0,0.0
+6,Random Forest,GASOLINERA,7,0.0,0.0,0.0
+6,Random Forest,OXXO EXPLANADA,7,0.0,0.0,0.0
+6,Random Forest,PALETERIA,7,0.0,0.0,0.0
+6,Random Forest,PEREYRA,7,0.0,0.0,0.0
+6,Random Forest,PERI PLAZA,7,0.0,-30.0,-14.0
+6,Random Forest,TORRES I,7,0.0,0.0,0.0
+6,Random Forest,VALSEQUILLO,7,0.0,0.0,0.0
+7,Random Forest,9 ORIENTE,7,0.0,0.0,0.0
+7,Random Forest,BASE,7,0.0,-10.0,-4.666666666666667
+7,Random Forest,CENTRAL CAMIONERA,7,0.0,0.0,0.0
+7,Random Forest,EL CARMEN,7,0.0,0.0,0.0
+7,Random Forest,GASOLINERA,7,0.0,0.0,0.0
+7,Random Forest,OXXO EXPLANADA,7,0.0,0.0,0.0
+7,Random Forest,PALETERIA,7,0.0,0.0,0.0
+7,Random Forest,PEREYRA,7,0.0,30.0,14.0
+7,Random Forest,PERI PLAZA,7,0.0,0.0,0.0
+7,Random Forest,TORRES I,7,0.0,0.0,0.0
+7,Random Forest,VALSEQUILLO,7,0.0,0.0,0.0
+107,Random Forest,9 ORIENTE,8,0.0,0.0,0.0
+107,Random Forest,BASE,7,0.0,-10.0,-4.666666666666667
+107,Random Forest,CENTRAL CAMIONERA,8,0.0,0.0,0.0
+107,Random Forest,EL CARMEN,8,0.0,0.0,0.0
+107,Random Forest,GASOLINERA,8,0.0,0.0,0.0
+107,Random Forest,OXXO EXPLANADA,8,0.0,0.0,0.0
+107,Random Forest,PALETERIA,8,0.0,0.0,0.0
+107,Random Forest,PEREYRA,8,0.0,30.0,15.0
+107,Random Forest,PERI PLAZA,8,0.0,0.0,0.0
+107,Random Forest,TORRES I,8,0.0,0.0,0.0
+107,Random Forest,VALSEQUILLO,8,0.0,0.0,0.0
+108,Random Forest,9 ORIENTE,7,0.0,0.0,0.0
+108,Random Forest,BASE,8,0.0,0.0,0.0
+108,Random Forest,CENTRAL CAMIONERA,7,0.0,0.0,0.0
+108,Random Forest,EL CARMEN,7,0.0,0.0,0.0
+108,Random Forest,GASOLINERA,7,0.0,0.0,0.0
+108,Random Forest,OXXO EXPLANADA,7,0.0,0.0,0.0
+108,Random Forest,PALETERIA,7,0.0,0.0,0.0
+108,Random Forest,PEREYRA,7,0.0,30.0,14.0
+108,Random Forest,PERI PLAZA,7,0.0,0.0,0.0
+108,Random Forest,TORRES I,7,0.0,0.0,0.0
+108,Random Forest,VALSEQUILLO,7,0.0,0.0,0.0
