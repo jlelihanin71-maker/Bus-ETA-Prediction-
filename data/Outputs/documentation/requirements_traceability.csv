@@ -1,0 +1,18 @@
+requirement,status,evidence
+English labels and source values,Complete,data/*English*; documentation/label_dictionary.csv; excel_preservation_checks.csv
+GPS quality and geography,Complete,tables/gps_cleaning_audit.csv; geometry_audit.csv; October_vehicle_coverage.csv
+Arrival matching and ETA target,Complete with undocumented new-arrival recording system,data/matched_arrival_events.csv; documentation/data_provenance.json
+Four base models with equal evaluation conditions,Complete,tables/fixed_reference_summary.csv; fixed_reference_results_by_trip.csv; model_summary.csv
+Whole-trip-group validation and event isolation,Complete for available groups; October groups partial,tables/all_results_by_trip.csv; documentation/leakage_checks.csv
+Rolling GPS history by vehicle and trip,Adapted to continuous past-only vehicle history,Guide_mise_a_jour_FR.md; notebook; prevents resets using future-labelled trip boundaries
+Training-only model settings and corrections,Complete,tables/distribution_training_choices.csv; distribution_candidate_scores.csv; correction training OOF tables
+Original 85 percent target,Superseded by current 80 percent request; neither reached,79.13843175217812 percent; unchanged absolute error tolerance of 30 seconds
+Current 80 percent within 30 seconds,Not reached,1635 of 2066 correct; 1653 needed; 18 short
+Operational baselines,Complete with stated speed-method coverage,tables/baseline_results.csv
+Sensitivity from 100 to 10 percent training events,Complete; tests held fixed,tables/training_sensitivity_raw.csv; training_sensitivity_summary.csv
+Predicted arrival and recorded arrival comparison,Complete,data/primary_model_predictions.csv; tables/largest_primary_errors.csv; figures/12_primary_predictions_and_errors.png
+Legal speeding conclusions,Applicable speed limit unavailable; scenarios only,tables/speed_threshold_scenarios.csv; speed_scenario_* episodes
+English figures and interactive dashboard,Complete; checked in in-app browser,figures/; dashboard/Hanine_ETA_Dashboard.html; documentation/dashboard_validation.json
+One programming notebook,Complete,Hanine_ETA_Bus_v2.ipynb; no private preparation scripts included
+Memoire organisation and explanation,Guidance provided; full memoire not written,LIRE_D_ABORD_FR.md; documentation/Guide_mise_a_jour_FR.md
+Colab cloud execution,Not tested; local executions completed,documentation/execution_validation.json

@@ -1,0 +1,13 @@
+{
+  "new_vehicle_mapping": "U16 to unit 16; suffix agreement and 11 matched passages; provider confirmation unavailable",
+  "new_speed_unit": "Previous km/h convention assumed; not independently confirmed for new CSV",
+  "new_arrival_recording_system": "Undocumented",
+  "new_clock_shift_applied_seconds": 0,
+  "new_labelled_arrivals": 11,
+  "new_GPS_vehicles": 29,
+  "new_GPS_rows_per_vehicle": 500,
+  "new_trip_coverage": "Partial trips 7 and 8",
+  "primary_tolerance_seconds": 30,
+  "primary_target_percent": 80,
+  "previous_target_percent": 85
+}

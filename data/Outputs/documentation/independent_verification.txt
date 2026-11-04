@@ -1,0 +1,1 @@
+PASS: five source hashes; unchanged translated CSV values; all 1,904 June feature rows preserved; 88 arrivals/2,066 observations; all model and fold scores reconciled; training-only group choices; all 1,008 sensitivity records with unchanged tests; notebook syntax and executed cells.

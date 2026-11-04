@@ -1,0 +1,14 @@
+{
+  "validated_at": "2026-10-09",
+  "default_experiment": "Tolerance aggregation",
+  "default_model": "Random Forest",
+  "main_status": "The selected predictions do not meet the 85% target within ±30 seconds. 1904 prediction instances from 77 arrival events.",
+  "main_score": "76.52%",
+  "four_model_table": "Model\tMAE (s)\tRMSE (s)\tR²\tWithin ±30 s\tInstances\tEvents\nLinear Regression\t32.75\t52.52\t0.548\t60.61%\t1904\t77\nRandom Forest\t26.41\t38.48\t0.758\t76.52%\t1904\t77\nXGBoost\t25.78\t37.30\t0.772\t71.27%\t1904\t77\nLightGBM\t26.36\t38.09\t0.762\t70.01%\t1904\t77",
+  "trip7_base_csv_fallback_rows": 15,
+  "empty_selection": "Chronological optimized / trip 1 displayed No predictions match these filters",
+  "chronological_cohort": "445 prediction instances from 22 arrival events",
+  "download_event": "Not independently confirmed; visible CSV text fallback verified",
+  "console_errors": [],
+  "screenshot": "dashboard_preview.png"
+}

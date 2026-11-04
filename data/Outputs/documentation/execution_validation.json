@@ -1,0 +1,13 @@
+{
+  "local_core_notebook": "Executed in a fresh local kernel",
+  "added_experiments": "Executed in local kernels; combined into this notebook",
+  "unchanged_result_reuse": "Some results reloaded only after source/data checks; normal Run all recomputes the experiments",
+  "colab_cloud_execution": "Not performed",
+  "current_target_percent": 80,
+  "tolerance_seconds": 30,
+  "primary_correct_predictions": 1635,
+  "primary_test_predictions": 2066,
+  "required_correct_predictions": 1653,
+  "target_met": false,
+  "independent_new_day_confirmation": "Needed after this iterative method development"
+}

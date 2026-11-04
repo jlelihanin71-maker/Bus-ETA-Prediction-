@@ -1,0 +1,19 @@
+check,trip_id,passed
+Past-only rolling and map-matching future perturbation,1,True
+Past-only rolling and map-matching future perturbation,2,True
+Past-only rolling and map-matching future perturbation,3,True
+Past-only rolling and map-matching future perturbation,4,True
+Past-only rolling and map-matching future perturbation,5,True
+Past-only rolling and map-matching future perturbation,6,True
+Past-only rolling and map-matching future perturbation,7,True
+Past-only rolling and map-matching future perturbation,107,True
+Past-only rolling and map-matching future perturbation,108,True
+Train/test arrival-event isolation,1,True
+Train/test arrival-event isolation,2,True
+Train/test arrival-event isolation,3,True
+Train/test arrival-event isolation,4,True
+Train/test arrival-event isolation,5,True
+Train/test arrival-event isolation,6,True
+Train/test arrival-event isolation,7,True
+Train/test arrival-event isolation,107,True
+Train/test arrival-event isolation,108,True

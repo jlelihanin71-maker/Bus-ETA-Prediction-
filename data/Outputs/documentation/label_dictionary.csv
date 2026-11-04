@@ -1,0 +1,19 @@
+source_file,source_label,english_label,note
+GPS_record_Ux (2).xlsx,Unit_id,vehicle_id,Label translation only
+GPS_record_Ux (2).xlsx,Velocidad,speed_kmh,Label translation only
+GPS_record_Ux (2).xlsx,timestap,timestamp,Label translation only
+GPS_record_Ux (2).xlsx,Latitud,longitude,Corrected semantic coordinate label; values unchanged
+GPS_record_Ux (2).xlsx,Longitud,latitude,Corrected semantic coordinate label; values unchanged
+Bitacora_plan de trabajo (2).xlsx,Fecha,date,Label translation only
+Bitacora_plan de trabajo (2).xlsx,Unidad,logbook_vehicle_id,Label translation only
+Bitacora_plan de trabajo (2).xlsx,Vuelta,trip_id,Label translation only
+Bitacora_plan de trabajo (2).xlsx,Recorrido,route_type,Label translation only
+Bitacora_plan de trabajo (2).xlsx,Punto de salida,departure_point,Label translation only
+Bitacora_plan de trabajo (2).xlsx,Punto de chequeo,checkpoint,Label translation only
+Bitacora_plan de trabajo (2).xlsx,Dirección,street_address,Label translation only
+Bitacora_plan de trabajo (2).xlsx,Tiempo desde la base (min),scheduled_elapsed_time,Label translation only
+Bitacora_plan de trabajo (2).xlsx,Llegada ideal,scheduled_arrival_time,Label translation only
+Bitacora_plan de trabajo (2).xlsx,Llegada real,actual_arrival_time,Label translation only
+Bitacora_plan de trabajo (2).xlsx,Adelanto/Retraso (Real),early_late_actual,Label translation only
+Bitacora_plan de trabajo (2).xlsx,Adelanto/Retraso (Con tolerancia),early_late_with_tolerance,Label translation only
+Bitacora_plan de trabajo (2).xlsx,Tipo de salida,departure_type,Label translation only

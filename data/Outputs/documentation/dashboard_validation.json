@@ -1,0 +1,31 @@
+{
+  "tested_date": "2026-10-29",
+  "surface": "In-app browser",
+  "protocol": "Local HTTP preview bound to 127.0.0.1",
+  "plots_rendered": 11,
+  "browser_console_errors_or_warnings": [],
+  "primary_result_displayed": {
+    "within_30s_pct": 79.14,
+    "MAE_sec": 24.51,
+    "instances": 2066,
+    "events": 88
+  },
+  "filter_checks": [
+    "trip 107: 15 predictions, one arrival, 60.00 percent within 30 seconds",
+    "trip 107 and 9 ORIENTE: clear no-predictions message",
+    "restored all trips and all checkpoints"
+  ],
+  "visual_checks": [
+    "Overview and primary metric cards",
+    "Prediction scatter, error histogram and checkpoint bars",
+    "Twelve exported scientific figures reviewed in a contact sheet"
+  ],
+  "static_checks": [
+    "Authored JavaScript syntax passed",
+    "Embedded Plotly library matches unmodified installed library"
+  ],
+  "not_checked": [
+    "Cloud storage preview execution",
+    "Colab cloud execution"
+  ]
+}
